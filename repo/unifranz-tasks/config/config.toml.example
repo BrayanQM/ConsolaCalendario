@@ -1,0 +1,11 @@
+[ics]
+url = "https://aula-virtual.unifranz.edu.bo/calendar/export_execute.php?userid=12320&authtoken=5af2be244660d81387873e8010169b4afddadd02&preset_what=all&preset_time=custom"
+
+[refresh]
+interval_minutes = 15
+
+[ui]
+time_format_12h = true
+
+[state]
+seen_file = "~/.local/state/unifranz-tasks/seen.json"
